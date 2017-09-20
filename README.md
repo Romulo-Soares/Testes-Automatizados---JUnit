@@ -1,2 +1,2 @@
-# Testes-Automatizados---JUnit
-Testes Automatizados JAVA com JUnit
+# Testes-Automatizados com JUnit
+Exemplos de Testes Automatizados - *JUnit* -> JAVA
